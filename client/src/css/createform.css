@@ -1,0 +1,6 @@
+.book-form-container {
+    max-width: 800px;
+    margin: 0 auto; /* Center the form horizontally */
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
